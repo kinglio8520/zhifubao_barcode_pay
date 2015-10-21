@@ -1,0 +1,16 @@
+.nodemonignore
+.sass-cache/
+.bower-*/
+.idea/
+node_modules/
+
+public/
+public/lib/
+
+exceptions.log
+logger.log
+error.log
+npm-debug.log
+log/*.log
+
+temp
